@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+h1, h2 {
+    color: rgb(73, 47, 73);
+}
+.header {
+    text-align: center;
+}
+.section {
+    margin-bottom: 20px;
+}
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+.skill {
+    
+    color: rgb(15, 20, 19);
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#profil{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+
+}
